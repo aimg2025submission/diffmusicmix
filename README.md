@@ -4,7 +4,7 @@
     Your browser does not support the audio element.
 </audio>
 
-    <h3>Mashup 1</h3>
+<h3>Mashup 1</h3>
 <audio controls>
     <source src="mashup_1_1.wav" type="audio/wav">
     Your browser does not support the audio element.
@@ -35,7 +35,7 @@
     Your browser does not support the audio element.
 </audio>
 
-    <h3>Mashup 1</h3>
+<h3>Mashup 1</h3>
 <audio controls>
     <source src="mashup_2_1.wav" type="audio/wav">
     Your browser does not support the audio element.
@@ -60,7 +60,7 @@
     Your browser does not support the audio element.
 </audio>
 
-    <h3>Original</h3>
+<h3>Original</h3>
 <audio controls>
     <source src="audio1.wav" type="audio/wav">
     Your browser does not support the audio element.
