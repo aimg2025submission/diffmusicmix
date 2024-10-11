@@ -1,5 +1,5 @@
-These are some examples from test set. Original mix is the well mixed versions, imbalanced input is the simulated bad mix for models to fix, and following with two baseline models results and our diffusion model result. 
-Lower the volume before playing since some of the examples are worst case scenarios for our test set design.
+<p>These are some examples from test set. Original mix is the well mixed versions, imbalanced input is the simulated bad mix for models to fix, and following with two baseline models results and our diffusion model result. </p>
+<p>Lower the volume before playing since some of the examples are worst case scenarios for our test set design.</p>
 
 <h3>Original Mix</h3>
 <audio controls>
