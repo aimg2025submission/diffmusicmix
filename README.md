@@ -71,41 +71,6 @@
 
 <h3>Original Mix</h3>
 <audio controls>
-    <source src="Alexander Ross - Goodbye Bolero\mixture.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Imbalanced Input</h3>
-<audio controls>
-    <source src="Alexander Ross - Goodbye Bolero\mix_twisted.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>FxNorm-automix/baseline 1</h3>
-<audio controls>
-    <source src="Alexander Ross - Goodbye Bolero\fxnorm.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-
-<h3>waveunet/baseline 2</h3>
-<audio controls>
-    <source src="Alexander Ross - Goodbye Bolero\mix_waveu.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Our diffusion-music-mix</h3>
-<audio controls>
-    <source src="Alexander Ross - Goodbye Bolero\master.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<hr> 
-
-
-
-<h3>Original Mix</h3>
-<audio controls>
     <source src="PR - Happy Daze\mixture.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
@@ -132,6 +97,40 @@
 <h3>Our diffusion-music-mix</h3>
 <audio controls>
     <source src="PR - Happy Daze\master.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<hr> 
+
+
+<h3>Original Mix</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\mixture.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>Imbalanced Input</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\mix_twisted.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>FxNorm-automix/baseline 1</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\fxnorm.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+
+<h3>waveunet/baseline 2</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\mix_waveu.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>Our diffusion-music-mix</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\master.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
