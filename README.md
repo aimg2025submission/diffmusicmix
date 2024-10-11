@@ -1,120 +1,171 @@
-<h3>Original</h3>
+<h3>Original Mix</h3>
 <audio controls>
-    <source src="original_1.wav" type="audio/wav">
+    <source src="Dreamers Of The Ghetto - Heavy Love\mixture.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-<h3>Mashup 1</h3>
+<h3>Imbalanced Input</h3>
 <audio controls>
-    <source src="mashup_1_1.wav" type="audio/wav">
+    <source src="Dreamers Of The Ghetto - Heavy Love\mix_twisted.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-
-<h3>Mashup 2</h3>
+<h3>FxNorm-automix/baseline 1</h3>
 <audio controls>
-    <source src="mashup_1_2.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Mashup 3</h3>
-<audio controls>
-    <source src="mashup_1_3.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Mashup 4</h3>
-<audio controls>
-    <source src="mashup_1_4.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Original</h3>
-<audio controls>
-    <source src="original_2.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Mashup 1</h3>
-<audio controls>
-    <source src="mashup_2_1.wav" type="audio/wav">
+    <source src="Dreamers Of The Ghetto - Heavy Love\fxnorm.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
 
-<h3>Mashup 2</h3>
+<h3>waveunet/baseline 2</h3>
 <audio controls>
-    <source src="mashup_2_2.wav" type="audio/wav">
+    <source src="Dreamers Of The Ghetto - Heavy Love\mix_waveu.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-<h3>Mashup 3</h3>
+<h3>Our diffusion-music-mix</h3>
 <audio controls>
-    <source src="mashup_2_3.wav" type="audio/wav">
+    <source src="Dreamers Of The Ghetto - Heavy Love\master.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-<h3>Mashup 4</h3>
+<hr> 
+
+
+<h3>Original Mix</h3>
 <audio controls>
-    <source src="mashup_2_4.wav" type="audio/wav">
+    <source src="Meaxic - Take A Step\mixture.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-<h3>Original</h3>
+<h3>Imbalanced Input</h3>
 <audio controls>
-    <source src="audio1.wav" type="audio/wav">
+    <source src="Meaxic - Take A Step\mix_twisted.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-
-<h3>Mashup 1</h3>
+<h3>FxNorm-automix/baseline 1</h3>
 <audio controls>
-    <source src="mash1.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-
-<h3>Mashup 2</h3>
-<audio controls>
-    <source src="mash2.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Mashup 3</h3>
-<audio controls>
-    <source src="mash3.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h3>Mashup 4</h3>
-<audio controls>
-    <source src="mash5.wav" type="audio/wav">
-    Your browser does not support the audio element.
-</audio>
-
-<h1>Beat Pattern</h1>
-
-<h3>Beat Extracted, As Basic Loop Anchor Points for Music</h3>
-<audio controls>
-    <source src="beat_1.wav" type="audio/wav">
+    <source src="Meaxic - Take A Step\fxnorm.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
 
-<h3>Mashup 2</h3>
+<h3>waveunet/baseline 2</h3>
 <audio controls>
-    <source src="beat_2.wav" type="audio/wav">
+    <source src="Meaxic - Take A Step\mix_waveu.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-<h3>Mashup 3</h3>
+<h3>Our diffusion-music-mix</h3>
 <audio controls>
-    <source src="beat_3.wav" type="audio/wav">
+    <source src="Meaxic - Take A Step\master.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
 
-<h3>Mashup 4</h3>
+<hr> 
+
+
+<h3>Original Mix</h3>
 <audio controls>
-    <source src="beat_4.wav" type="audio/wav">
+    <source src="Alexander Ross - Goodbye Bolero\mixture.wav" type="audio/wav">
     Your browser does not support the audio element.
 </audio>
+
+<h3>Imbalanced Input</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\mix_twisted.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>FxNorm-automix/baseline 1</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\fxnorm.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+
+<h3>waveunet/baseline 2</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\mix_waveu.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>Our diffusion-music-mix</h3>
+<audio controls>
+    <source src="Alexander Ross - Goodbye Bolero\master.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<hr> 
+
+
+
+<h3>Original Mix</h3>
+<audio controls>
+    <source src="PR - Happy Daze\mixture.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>Imbalanced Input</h3>
+<audio controls>
+    <source src="PR - Happy Daze\mix_twisted.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>FxNorm-automix/baseline 1</h3>
+<audio controls>
+    <source src="PR - Happy Daze\fxnorm.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+
+<h3>waveunet/baseline 2</h3>
+<audio controls>
+    <source src="PR - Happy Daze\mix_waveu.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>Our diffusion-music-mix</h3>
+<audio controls>
+    <source src="PR - Happy Daze\master.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<hr> 
+
+
+
+<h3>Original Mix</h3>
+<audio controls>
+    <source src="Enda Reilly - Cur An Long Ag Seol\mixture.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>Imbalanced Input</h3>
+<audio controls>
+    <source src="Enda Reilly - Cur An Long Ag Seol\mix_twisted.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>FxNorm-automix/baseline 1</h3>
+<audio controls>
+    <source src="Enda Reilly - Cur An Long Ag Seol\fxnorm.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+
+<h3>waveunet/baseline 2</h3>
+<audio controls>
+    <source src="Enda Reilly - Cur An Long Ag Seol\mix_waveu.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<h3>Our diffusion-music-mix</h3>
+<audio controls>
+    <source src="Enda Reilly - Cur An Long Ag Seol\master.wav" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
+<hr> 
+
